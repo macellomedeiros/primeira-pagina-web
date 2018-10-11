@@ -1,0 +1,30 @@
+.borda-imagem{
+  border-radius: 50%;
+  border: 10px solid #29313E;
+}
+.fundo-pagina{
+  background-color: #F0D59A;
+}
+
+.posi-centro{
+  text-align: center;
+}
+
+.img-centro{
+margin-left: auto;
+margin-right: auto;
+display: block;
+width: 20%;
+}
+
+.texto-cor{
+  color: #725047;
+}
+
+h1{
+  font-family: 'Fredoka One', cursive;
+}
+
+h3{
+  font-family: 'Hind Madurai', sans-serif;
+}
